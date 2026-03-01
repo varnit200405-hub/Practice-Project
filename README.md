@@ -1,8 +1,13 @@
 # Practice-Project
 📌 Introduction
-This project is an HR Analytics Dashboard built in Excel. It provides insights into employee data across multiple dimensions such as salary, experience, department, gender, and performance rating. The dashboard leverages pivot tables, averages, counts, lookups, unique filters, and charts to summarize and visualize workforce trends.
+
+This project is an HR Analytics Dashboard built in Excel.
+It provides insights into employee data across multiple dimensions such as salary, experience, department, gender, and performance rating.
+The dashboard leverages pivot tables, averages, counts, lookups, unique filters, and charts to summarize and visualize workforce trends.
 
 🧮 Formulas & Functions Used
+
+
 AVERAGE – Salary progression by experience.
 
 COUNT – Employee distribution by department, gender, and rating.
@@ -13,7 +18,10 @@ Lookup Functions – Extracting employee-specific data.
 
 Unique Filters – Removing duplicates and highlighting distinct values.
 
+
 ⚙️ Process
+
+
 Data Entry – Employee details recorded in Sheet1.
 
 Aggregation – Pivot tables summarize counts and averages in Sheet3.
@@ -25,6 +33,8 @@ Analysis – Salary growth, department distribution, gender balance, and perform
 Visualization – Charts created for better interpretation of data.
 
 📸 Charts & Visualizations
+
+
 The dashboard includes multiple charts to make insights clear and engaging:
 
 Salary vs Experience Chart
@@ -52,6 +62,8 @@ Column chart showing distribution of ratings (2–5).
 Majority of employees rated 4 or 5, indicating strong performance.
 
 ✅ Conclusion
+
+
 Salaries increase steadily with experience.
 
 Departments are evenly balanced.
